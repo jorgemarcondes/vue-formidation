@@ -1,2 +1,3 @@
-# vue-formidation
-A VueJS form solution.
+# Vue Formidation
+Its a VueJS form solution.
+Using formvalidation.io as principal dependency.
